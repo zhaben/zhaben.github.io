@@ -1,4 +1,4 @@
 name: Zhane Bennett
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: minima
+theme: jekyll-theme-cayman
