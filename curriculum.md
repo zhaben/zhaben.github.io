@@ -6,8 +6,5 @@ permalink: /curriculum/
 
 
 You can find more information about my curriculum at GitHub:
-[zhaben-user][zhaben] /
-[Data-Science Repo][Data-Science]
-
-[zhaben](https://github.com/zhaben)
+[zhaben](https://github.com/zhaben)/
 [Data-Science](https://github.com/zhaben/Data-Science)
