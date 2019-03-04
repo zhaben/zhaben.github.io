@@ -32,9 +32,7 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
-        {% if site.disqus.shortname %}
-          {% include disqus.html %}
-        {% endif %}
+
         <hr>
 
         <div class="clearfix">
@@ -49,7 +47,11 @@ layout: default
             data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
               Post</span> &rarr;</a>
           {% endif %}
-
+           
+          <!-- Page Comments -->
+          {% if site.disqus.shortname %}
+            {% include disqus.html %}
+          {% endif %}
         </div>
 
       </div>
