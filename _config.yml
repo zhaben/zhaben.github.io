@@ -11,6 +11,17 @@ url:               "http://zhaben.github.io"
 github_username:   zhaben
 linkedin_username: zhanebennett
 
+#Comments and Analytics
+disqus:
+  shortname: zhaben
+google_analytics: 'UA-135520235-1'
+
+#Paypal
+donations:
+  paypal:
+    text:           Donate      # Button text
+    #id:               # PayPal button ID
+
 # Build settings
 markdown:          kramdown
 paginate:          5
