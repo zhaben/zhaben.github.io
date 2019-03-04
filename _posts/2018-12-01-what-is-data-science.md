@@ -6,8 +6,6 @@ date:   2018-12-01 10:45:13 -0400
 background: '/img/posts/06.jpg'
 ---
 
-What Is Data Science?
-
 Data science can help us understand what a business needs for improvement. It is multidisciplinary, encompassing processes from the fields of business, computer science, and mathematics. It is not data analytics. There is a popular saying that a data scientist knows more about statistics than any software engineer and more software engineering than any statistician. 
 
 More technically, data scientists know how to perform regression analysis (predict a continuous value when there are several variables), classification analysis (predict which category something will fall into), anomaly detection (identify unusual outcomes), and generate recommender systems (predict user preferences toward a product or service).
@@ -23,7 +21,6 @@ Anaconda, an integrated data science platform, provides some of these technologi
 Anaconda is end-to-end, meaning that it supports everything from the beginning stages of collecting data from files and databases, managing virtual environments (Conda) and project sharing/collaboration, to the ending stages of deployment which is the process of making a project ready for use. 
 
 Along with computer science and mathematics, business acumen is essential to data science because it provides direction. Analysis and algorithms are not really useful without direction. A data scientist needs to know why they are looking, in order to know what to look for, and to communicate how their findings can help.
-
 
 
 <!--
