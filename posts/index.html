@@ -1,0 +1,14 @@
+---
+layout: page
+title: Page Title
+description: This is the page description.
+background: '/PATH_TO_IMAGE'
+---
+{% include analytics.html %}
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
+{% include paypal.html %}
+{% include disqus.html %}
