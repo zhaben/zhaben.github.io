@@ -8,4 +8,6 @@ categories: jekyll update
 
 I created this static website with Jekyll, a static site generator. I'm hosting it for free with GitHub Pages!
 
-{% include disqus.html %}
+{% if site.disqus.shortname %}
+  {% include disqus.html %}
+{% endif %}
