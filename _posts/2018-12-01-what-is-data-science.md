@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Data Science?"
 subtitle: "Data powers everything that we do"
-date:   2018-12-01 10:45:13 -0400
+date:   2018-12-01 10:45:13 -0500
 background: '/img/posts/06.jpg'
 ---
 
