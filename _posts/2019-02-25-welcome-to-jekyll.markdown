@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title:  "I created my website with Jekyll!"
 date:   2019-02-25 21:48:32 -0500
 categories: jekyll update
