@@ -3,7 +3,7 @@ layout: page
 title: Posts
 background: '/img/bg-post.jpg'
 ---
-
+{% include disqus.html %}
 {% for post in paginator.posts %}
 
 <article class="post-preview">
@@ -25,7 +25,7 @@ background: '/img/bg-post.jpg'
 </article>
 
 <hr>
-{% include disqus.html %}
+
 {% endfor %}
 
 <!-- Pager -->
