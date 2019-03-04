@@ -24,7 +24,9 @@ background: '/img/bg-post.jpg'
     {% endif %}
     on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}</p>
 </article>
-
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
 <hr>
 
 {% endfor %}
