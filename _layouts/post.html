@@ -32,7 +32,9 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
-
+        {% if site.disqus.shortname %}
+          {% include disqus_comments.html %}
+        {% endif %}
         <hr>
 
         <div class="clearfix">
