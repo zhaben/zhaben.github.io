@@ -6,6 +6,8 @@ date:   2019-03-03 23:48:32 -0500
 categories: jekyll update
 ---
 
+{% include analytics.html %}
+
 I created this static website with Jekyll, a static site generator. I'm hosting it for free with GitHub Pages!
 
 {% include paypal.html %}
