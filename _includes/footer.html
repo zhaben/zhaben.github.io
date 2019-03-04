@@ -47,6 +47,11 @@
             </a>
           </li>
           {% endif %}
+          {% if site.linkedin_username %}
+          <li class="list-inline-item">
+            {% include paypal.html %}
+          </li>
+          {% endif %}
         </ul>
         <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
       </div>
