@@ -1,12 +1,30 @@
 ---
 layout: post
-title:  "Man must explore, and this is exploration at its greatest"
-subtitle: "Problems look mighty small from 150 miles up"
+title:  "What is Data Science?"
+subtitle: "Data powers everything that we do"
 date:   2017-10-31 10:45:13 -0400
 background: '/img/posts/06.jpg'
 ---
 
-This will be written in Markdown!
+What Is Data Science?
+
+Data science can help us understand what a business needs for improvement. It is multidisciplinary, encompassing processes from the fields of business, computer science, and mathematics. It is not data analytics. There is a popular saying that a data scientist knows more about statistics than any software engineer and more software engineering than any statistician. 
+
+More technically, data scientists know how to perform regression analysis (predict a continuous value when there are several variables), classification analysis (predict which category something will fall into), anomaly detection (identify unusual outcomes), and generate recommender systems (predict user preferences toward a product or service).
+
+We take advantage of data science all the time. When your credit card company contacts you about potential fraud activity on your account––that’s anomaly detection, and when advertisements seem to pop up at the right time in the right place––that’s regression analysis.
+
+Actually, the most successful companies put data science at the center of their business model. Netflix and Google are prime examples. When Netflix provides a list of shows you would like––that’s a recommender system. When Google filters out your spam and social networking emails––that’s classification analysis. Furthermore, life wouldn’t be as smooth without autocomplete, autocorrect, spell-check, and grammar-check.
+
+There is an industry standard for professional tools that help data scientists to extract knowledge and insights from data. The most fundamental include: web-based notebooks (Jupyter Notebook), a library for exploring raw and structured data (Pandas), an IDE or text editor for software development (Atom), version control software for tracking changes in code (Git/Github), a framework for processing large amounts of data (Spark), a language to query databases (SQL), and a library to create meaningful visualizations of the data that are beautiful and interactive (Bokeh).
+
+Anaconda, an integrated data science platform, provides some of these technologies and more, speeding up the process for developing and deploying artificial intelligence (AI) and machine learning (ML) models. AI refers to the general capability of computers do things that usually require humans intelligence (i.e. Siri and Alexa), and ML is a branch of AI where computers learn from experience (i.e. Facebook suggesting that you tag yourself in a photo).
+
+Anaconda is end-to-end, meaning that it supports everything from the beginning stages of collecting data from files and databases, managing virtual environments (Conda) and project sharing/collaboration, to the ending stages of deployment which is the process of making a project ready for use. 
+
+Along with computer science and mathematics, business acumen is essential to data science because it provides direction. Analysis and algorithms are not really useful without direction. A data scientist needs to know why they are looking, in order to know what to look for, and to communicate how their findings can help.
+
+
 
 <!--
 
