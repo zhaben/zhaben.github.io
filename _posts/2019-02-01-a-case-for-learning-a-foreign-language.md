@@ -6,7 +6,7 @@ date:   2019-02-01 23:45:13 -0500
 background: '/img/posts/03.jpg'
 ---
 
-Nelson Mandela said, “If you talk to [someone] in a language [they] understand, that goes to [their] head. If you talk to [them] in [their] language, that goes to [their] heart.”
+Nelson Mandela said, <blockquote class="blockquote">“If you talk to [someone] in a language [they] understand, that goes to [their] head. If you talk to [them] in [their] language, that goes to [their] heart.”</blockquote>
 
 You’ve probably heard this before, maybe in a less gender-neutral sense, but it’s common nonetheless. 
 
