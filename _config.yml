@@ -18,9 +18,9 @@ google_analytics: 'UA-135520235-1'
 
 #Paypal
 donations:
-  paypal:
-    text:           Donate      # Button text
-    #id:               # PayPal button ID
+paypal:
+text:  Donate       # Button text
+id: 6QCBKQ65SMTDS   # PayPal button ID
 
 # Build settings
 markdown:          kramdown
