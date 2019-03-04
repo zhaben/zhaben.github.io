@@ -6,10 +6,7 @@ date:   2017-10-31 10:45:13 -0400
 background: '/img/posts/06.jpg'
 ---
 
-{% markdown %}
-[Stack Overflow](http://www.stackoverflow.com) Here we are!
-{% endmarkdown %}
-
+This will be written in Markdown!
 
 <!--
 
