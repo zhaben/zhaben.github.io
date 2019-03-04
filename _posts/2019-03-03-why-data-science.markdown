@@ -5,6 +5,8 @@ title:  "I created my website with Jekyll!"
 date:   2019-03-03 23:48:32 -0500
 categories: jekyll update
 ---
+{% include analytics.html %}
+
 {% if site.google_analytics and jekyll.environment == 'production' %}
 {% include analytics.html %}
 {% endif %}
