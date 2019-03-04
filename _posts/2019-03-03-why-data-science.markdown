@@ -8,5 +8,5 @@ categories: jekyll update
 
 I created this static website with Jekyll, a static site generator. I'm hosting it for free with GitHub Pages!
 
-
+{% include donations-paypal.html %}
 {% include disqus.html %}
