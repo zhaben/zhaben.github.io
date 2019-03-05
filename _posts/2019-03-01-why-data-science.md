@@ -41,7 +41,7 @@ Data science tools would give me the aptitude to produce insights that are actio
 Social facts are facts, that are backed by statistical analysis, such as demography, and the scientific method. Interviews are great too---they give me an excuse to listen to people talk about their lives. However, I had to ponder the question: *What is the best way for me to implement change?*
 
 
-How can I gain a different perspective to figure out what to do about social and business problems? Working through analyses that are more quantifiable and visual can unlock perspective, truth, and help with the leveraging of resources for a more pareto improved world– that is, if we come to agree on a more sustainable and energy-efficient one.
+How can I gain a different perspective to figure out what to do about social and business problems? Working through analyses that are more quantifiable and visual can unlock perspective, truth, and help with the leveraging of resources for a more pareto improved world---that is, if we come to agree on a more sustainable and energy-efficient one.
 
 
 A career in Data Science, as we now call it, offers me horizontal mobility, unlimited learning opportunities, and the potential to incite change. I couldn’t ask for a more suitable next step.
