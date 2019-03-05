@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to learn a new language fast"
+title:  "How to Learn a New Language Fast"
 subtitle: "You live a new life for every language you speak. If you know only one language, you live only once."
-date:   2019-11-01 23:45:13 -0500
+date:   2019-01-01 23:45:13 -0500
 background: '/img/posts/04.jpg'
 ---
 
