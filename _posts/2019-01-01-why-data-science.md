@@ -26,7 +26,7 @@ I value versatility, diversity, and flexibility.
 
 I was the teen that smiled at whatever was “liberal arts”, because to me that meant the freedom to explore. It meant unlocking the versatility of perspective. My approach to college was indeed, multidisciplinary. I was always on the path toward social science. I had a semester of I’m a psychology major, what about you?, until I became more interested in the economy and how we depend on social institutions and culture to guide our decisions and behaviors. 
 
-<img class="img-fluid" src="https://unsplash.com/photos/vLCFUqY3y5M" alt="Image">
+<img class="img-fluid" src="https://images.unsplash.com/photo-1432753759888-b30b2bdac995?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2794&q=80M" alt="Image">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 While choosing to pursue a degree program in both Economics and Sociology, as opposed to simply taking classes in one to supplement my education in the other, was a huge investment of time, I knew that how I was learning to think was essential to what I would later decide to do as a professional.
