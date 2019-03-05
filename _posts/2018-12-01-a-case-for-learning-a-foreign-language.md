@@ -2,7 +2,7 @@
 layout: post
 title:  "A Case For Learning a Foreign Language"
 subtitle: "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
-date:   2019-12-01 23:45:13 -0500
+date:   2018-12-01 23:45:13 -0500
 background: '/img/posts/03.jpg'
 ---
 
