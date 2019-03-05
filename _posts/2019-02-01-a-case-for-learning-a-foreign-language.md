@@ -21,15 +21,15 @@ And one that has always motivated me to push through when grammar becomes frustr
 
 If Nelson Mandela can change the world, I can stop confusing ser and estar.
 
-Most of us won’t become political leaders, but we all communicate through language––and our language influences the way we think, behave, and live. 
+Most of us won’t become political leaders, but we all communicate through language---and our language influences the way we think, behave, and live. 
 
 Would you make the same decisions in a foreign language as you would in your native one?
 
-The answer is no, because of something called the Foreign Language Effect, where using a foreign language makes you more open to taking risks and less fearful of loss when making a decision that can bring positive value, since you are more cognitively and emotionally distant from that decision. 
+The answer is no, because of something called the **Foreign Language Effect**, where using a foreign language makes you more open to taking risks and less fearful of loss when making a decision that can bring positive value, since you are more cognitively and emotionally distant from that decision. 
 
-I was looking to enroll in a Spanish class, because I needed to ‘finally become fluent,’ but all of the spots were full of seniors who needed to fulfill their language requirement––they got to choose first because of seniority. So I enrolled in French on a whim. I didn’t expect to love French so much, but it made a difference in shaping how I connected with people and how I connected with myself. 
+I was looking to enroll in a Spanish class, because I needed to ‘finally become fluent,’ but all of the spots were full of seniors who needed to fulfill their language requirement---they got to choose first because of seniority. So I enrolled in French on a whim. I didn’t expect to love French so much, but it made a difference in shaping how I connected with people and how I connected with myself. 
 
-Fast forward to four years later. I’m fluent in French and sitting in a café in the 14th arrondissement (my favorite arrondissement) of Paris in August, eating quiche lorraine (my favorite type of quiche), and thinking about how much work I had to put in to get to this point––and how chance prompting me to learn a third language literally changed my life.
+Fast forward to four years later. I’m fluent in French and sitting in a café in the 14th arrondissement (my favorite arrondissement) of Paris in August, eating quiche lorraine (my favorite type of quiche), and thinking about how much work I had to put in to get to this point---and how chance prompting me to learn a third language literally changed my life.
 I booked a flight to return to the U.S., so I thought it would be a good idea to chill and read a book written by Ta-Nehisi Coates that a friend recommended to me. It included anecdotes about how society shaped his social, political and economic identity. Then, I came across a chapter about how he and his family were traveling through France, and how often miscommunication happened between them and strangers because they were so accustomed to the American context. I empathized.
 
 Then I googled him on my phone and found that he had been trying to understand inequality through a francophone lens by learning French and doing talks with French people who were also in search of understanding. And I thought, this is literally what I was thinking about on the métro (subway) on my way to this café from the 42 school (a new programming institution that serves to make tech education more meritocratic).
