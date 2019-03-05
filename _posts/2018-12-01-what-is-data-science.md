@@ -10,9 +10,9 @@ Data science can help us understand what a business needs for improvement. It is
 
 More technically, data scientists know how to perform regression analysis (predict a continuous value when there are several variables), classification analysis (predict which category something will fall into), anomaly detection (identify unusual outcomes), and generate recommender systems (predict user preferences toward a product or service).
 
-We take advantage of data science all the time. When your credit card company contacts you about potential fraud activity on your account––that’s anomaly detection, and when advertisements seem to pop up at the right time in the right place––that’s regression analysis.
+We take advantage of data science all the time. When your credit card company contacts you about potential fraud activity on your account---that’s anomaly detection, and when advertisements seem to pop up at the right time in the right place––that’s regression analysis.
 
-Actually, the most successful companies put data science at the center of their business model. Netflix and Google are prime examples. When Netflix provides a list of shows you would like––that’s a recommender system. When Google filters out your spam and social networking emails––that’s classification analysis. Furthermore, life wouldn’t be as smooth without autocomplete, autocorrect, spell-check, and grammar-check.
+Actually, the most successful companies put data science at the center of their business model. Netflix and Google are prime examples. When Netflix provides a list of shows you would like---that’s a recommender system. When Google filters out your spam and social networking emails---that’s classification analysis. Furthermore, life wouldn’t be as smooth without autocomplete, autocorrect, spell-check, and grammar-check.
 
 <img class="img-fluid" src="https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="Image">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
@@ -23,7 +23,7 @@ Anaconda, an integrated data science platform, provides some of these technologi
 
 Anaconda is end-to-end, meaning that it supports everything from the beginning stages of collecting data from files and databases, managing virtual environments (Conda) and project sharing/collaboration, to the ending stages of deployment which is the process of making a project ready for use. 
 
-Along with computer science and mathematics, business acumen is essential to data science because it provides direction. Analysis and algorithms are not really useful without direction. A data scientist needs to know why they are looking, in order to know what to look for, and to communicate how their findings can help.
+Along with computer science and mathematics, business acumen is essential to data science because it provides direction. Analysis and algorithms are not really useful without direction. A data scientist needs to know *why* they are looking, in order to know *what* to look for, and to communicate *how* their findings can help.
 
 
 <!--
