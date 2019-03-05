@@ -14,6 +14,9 @@ We take advantage of data science all the time. When your credit card company co
 
 Actually, the most successful companies put data science at the center of their business model. Netflix and Google are prime examples. When Netflix provides a list of shows you would like––that’s a recommender system. When Google filters out your spam and social networking emails––that’s classification analysis. Furthermore, life wouldn’t be as smooth without autocomplete, autocorrect, spell-check, and grammar-check.
 
+<img class="img-fluid" src="https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="Image">
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+
 There is an industry standard for professional tools that help data scientists to extract knowledge and insights from data. The most fundamental include: web-based notebooks (Jupyter Notebook), a library for exploring raw and structured data (Pandas), an IDE or text editor for software development (Atom), version control software for tracking changes in code (Git/Github), a framework for processing large amounts of data (Spark), a language to query databases (SQL), and a library to create meaningful visualizations of the data that are beautiful and interactive (Bokeh).
 
 Anaconda, an integrated data science platform, provides some of these technologies and more, speeding up the process for developing and deploying artificial intelligence (AI) and machine learning (ML) models. AI refers to the general capability of computers do things that usually require humans intelligence (i.e. Siri and Alexa), and ML is a branch of AI where computers learn from experience (i.e. Facebook suggesting that you tag yourself in a photo).
