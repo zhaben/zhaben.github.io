@@ -6,13 +6,13 @@ date:   2019-11-01 23:45:13 -0500
 background: '/img/posts/04.jpg'
 ---
 
-I am trilingual&ndash;I can read, speak, and write in English, Spanish, and French. 
+I am trilingual---I can read, speak, and write in English, Spanish, and French. 
 
 Depending on where you are, you might see this as a feat or you might see it as trite. I see it as a process. I like how they sound and using them when I travel makes me happy.
 
-I learned Spanish in high school. I got high marks, but I couldn’t speak Spanish. Then I learned it in college, but I still couldn’t really speak Spanish. Then, I started speaking in Spanish and I was finally able to speak Spanish.
+I learned Spanish in high school. I got high marks, but I couldn’t speak Spanish. Then I learned it in college, but I still couldn’t really speak Spanish. Then, I started *speaking* in Spanish and I was finally able to speak Spanish.
 
-I started learning French in college and I became fluent in 4 years. What really did it for me were the 7 months I spent in France, immersing myself in the language and culture. The most important lesson wasn’t that I should never address my host mom with tu, or that I should never miss dinner again because “Ce n’est pas un hôtel” (This is not a hotel), but how to actually learn to speak a foreign language.
+I started learning French in college and I became fluent in 4 years. What really did it for me were the 7 months I spent in France, immersing myself in the language and culture. The most important lesson wasn’t that I should never address my host mom with tu, or that I should never miss dinner again because “Ce n’est pas un hôtel” (This is not a hotel), but *how* to actually learn to speak a foreign language.
 
 Until I decide to enroll in a master’s degree program, I won’t have time to take any language classes, hence if I want to uphold my polyglot dreams, I would have to learn how to teach myself. 
 
@@ -23,15 +23,15 @@ So, like any ambitious young adult, I came up with a plan to impress my friends.
 
 There are three things that are essential, and if you skip them as someone who isn’t a baby living in a multilingual household, you’re going to have a hard time.
 
-Vocabulary (words)
-Grammar (the order of those words)
-Immersion (an environment to use those words quickly)
+1. Vocabulary (words)
+2. Grammar (the order of those words)
+3. Immersion (an environment to use those words quickly)
 
 Let’s call this the VGI method. There are three dimensions to this method, and if you skip them as an independent learner, you’re better off using an app.
 
-Content (VGI resources)
-Time (free of multitasking)
-Routine (consistency)
+1. Content (VGI resources)
+2. Time (free of multitasking)
+3. Routine (consistency)
 
 Let’s refer to this as having CTR. 
 
@@ -58,12 +58,12 @@ After deciding which words to learn, the next step is spaced repetition. There a
 
 There is an international standard for describing language ability; it is referred to as the Common European Framework of Reference For Language Learning (CEFR). There are six levels to language mastery. Here are the average number of words you should now for each level:
 
-500 words      → A1 (Beginner)
-1,000 words   → A2 (Elementary)	
-2,000 words   → B1 (Intermediate)
-4,000 words   → B2 (Upper Intermediate)
-8,000 words   → C1 (Advanced)
-16,000 words → C2 (Proficient)
+*500 words      → A1 (Beginner)
+*1,000 words    → A2 (Elementary)	
+*2,000 words    → B1 (Intermediate)
+*4,000 words    → B2 (Upper Intermediate)
+*8,000 words    → C1 (Advanced)
+*16,000 words   → C2 (Proficient)
 
 To go up a level, you have to learn twice the amount of words in your level.
 
