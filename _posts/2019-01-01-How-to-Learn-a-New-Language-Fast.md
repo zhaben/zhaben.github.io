@@ -69,7 +69,10 @@ To go up a level, you have to learn twice the amount of words in your level.
 
 Fortunately, if you follow this strategy, you can go from A1 to B2 in a matter of months.  In order to speak fluently, all you need is to condense high-frequency words into the first 2,500 words you learn.
 
-If you want to know more, feel free to reach out to me via email or social media.
+
+What is your experience with language learning?
+
+If you want to share your story or to learn more techniques, feel free to reach out to me via email or social media
 
 
 <!--
