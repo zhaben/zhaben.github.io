@@ -51,7 +51,7 @@ There’s a principle in economics referred to as the 80/20 rule, claiming that 
 
 The most common 2500 words in a language make up 95% of its vocabulary. Tomorrow, we will probably reuse most of the words we are using today. That means learning words that are used more often in a language will give you a greater return on investment.
 
-After deciding which words to learn, the next step is spaced repetition. There are tools for this, like Anki. Spaced repetition is a learning technique where you increase how often you review a piece of information. For example, if you are using spaced repetition with French flashcards, you would see the word chat appear every 5 cards, then every 10 cards, then 20, then 25. You will retain chat better in your memory than if you just saw it every 50 cards. This is a powerful technique that allows you to decrease time spent studying while increasing the amount you learn.
+After deciding which words to learn, the next step is spaced repetition. There are tools for this, like [Anki](https://apps.ankiweb.net "Anki"). Spaced repetition is a learning technique where you increase how often you review a piece of information. For example, if you are using spaced repetition with French flashcards, you would see the word chat appear every 5 cards, then every 10 cards, then 20, then 25. You will retain chat better in your memory than if you just saw it every 50 cards. This is a powerful technique that allows you to decrease time spent studying while increasing the amount you learn.
 
 <img class="img-fluid" src="https://knowledgeplus.nejm.org/wp-content/uploads/2015/11/forgetting-curves.jpg" alt="Image">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
@@ -67,7 +67,7 @@ There is an international standard for describing language ability; it is referr
 
 To go up a level, you have to learn twice the amount of words in your level.
 
-Fortunately, if you follow this strategy, you can go from A1 to B2 in a matter of months.  In order to speak fluently, all you need is to condense high-frequency words into the first 3,000 words you learn.
+Fortunately, if you follow this strategy, you can go from A1 to B2 in a matter of months.  In order to speak fluently, all you need is to condense high-frequency words into the first 2,500 words you learn.
 
 If you want to know more, feel free to reach out to me via email or social media.
 
