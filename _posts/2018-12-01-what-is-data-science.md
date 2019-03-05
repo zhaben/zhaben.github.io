@@ -10,7 +10,7 @@ Data science can help us understand what a business needs for improvement. It is
 
 More technically, data scientists know how to perform regression analysis (predict a continuous value when there are several variables), classification analysis (predict which category something will fall into), anomaly detection (identify unusual outcomes), and generate recommender systems (predict user preferences toward a product or service).
 
-We take advantage of data science all the time. When your credit card company contacts you about potential fraud activity on your account---that’s anomaly detection, and when advertisements seem to pop up at the right time in the right place––that’s regression analysis.
+We take advantage of data science all the time. When your credit card company contacts you about potential fraud activity on your account---that’s anomaly detection, and when advertisements seem to pop up at the right time in the right place---that’s regression analysis.
 
 Actually, the most successful companies put data science at the center of their business model. Netflix and Google are prime examples. When Netflix provides a list of shows you would like---that’s a recommender system. When Google filters out your spam and social networking emails---that’s classification analysis. Furthermore, life wouldn’t be as smooth without autocomplete, autocorrect, spell-check, and grammar-check.
 
