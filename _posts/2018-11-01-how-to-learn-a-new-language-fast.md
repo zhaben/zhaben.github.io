@@ -53,6 +53,8 @@ The most common 2500 words in a language make up 95% of its vocabulary. Tomorrow
 
 After deciding which words to learn, the next step is spaced repetition. There are tools for this, like Anki. Spaced repetition is a learning technique where you increase how often you review a piece of information. For example, if you are using spaced repetition with French flashcards, you would see the word chat appear every 5 cards, then every 10 cards, then 20, then 25. You will retain chat better in your memory than if you just saw it every 50 cards. This is a powerful technique that allows you to decrease time spent studying while increasing the amount you learn.
 
+<img class="img-fluid" src="hhttps://knowledgeplus.nejm.org/wp-content/uploads/2015/11/forgetting-curves.jpg" alt="Image">
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 There is an international standard for describing language ability; it is referred to as the Common European Framework of Reference For Language Learning (CEFR). There are six levels to language mastery. Here are the average number of words you should now for each level:
 
