@@ -2,7 +2,7 @@
 layout: post
 title:  "A Case For Learning a Foreign Language"
 subtitle: "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
-date:   2019-02-01 23:45:13 -0500
+date:   2019-12-01 23:45:13 -0500
 background: '/img/posts/03.jpg'
 ---
 
@@ -34,7 +34,7 @@ I booked a flight to return to the U.S., so I thought it would be a good idea to
 
 Then I googled him on my phone and found that he had been trying to understand inequality through a francophone lens by learning French and doing talks with French people who were also in search of understanding. And I thought, this is *literally* what I was thinking about on the métro (subway) on my way to this café from the 42 school (a new programming institution that serves to make tech education more meritocratic).
 
-I’m also guilty of misinterpreting other people’s words and actions, even more so when removed from my American context. Since I wanted to have a worthwhile experience, I had to learn how to adapt to French culture, and that meant seeing myself differently than how I saw myself in America––especially since people weren’t seeing me how I was seen in America. The Foreign Language Effect was at work. I began making better judgements as I got better at French, and I was distancing myself from my own perspective and allowing myself to become less partial and more objective.
+I’m also guilty of misinterpreting other people’s words and actions, even more so when removed from my American context. Since I wanted to have a worthwhile experience, I had to learn how to adapt to French culture, and that meant seeing myself differently than how I saw myself in America---especially since people weren’t seeing me how I was seen in America. The Foreign Language Effect was at work. I began making better judgements as I got better at French, and I was distancing myself from my own perspective and allowing myself to become less partial and more objective.
 
 It was not an easy process. I learned how to translate quickly when French people were speaking *too fast*. An important part of that was looking for implicit meaning in other forms of communication, such as body language and facial expressions, that I would usually overlook while speaking English. 
 
