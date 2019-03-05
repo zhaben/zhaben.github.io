@@ -18,7 +18,7 @@ Until I decide to enroll in a master’s degree program, I won’t have time to 
 
 So, like any ambitious young adult, I came up with a plan to impress my friends.
 
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
+<img class="img-fluid" src="https://images.unsplash.com/photo-1519734004356-f588de029302?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="Image">
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
 There are three things that are essential, and if you skip them as someone who isn’t a baby living in a multilingual household, you’re going to have a hard time.
