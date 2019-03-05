@@ -25,7 +25,7 @@ Most of us won’t become political leaders, but we all communicate through lang
 
 Would you make the same decisions in a foreign language as you would in your native one?
 
-The answer is no, because of something called the **Foreign Language Effect**, where using a foreign language makes you more open to taking risks and less fearful of loss when making a decision that can bring positive value, since you are more cognitively and emotionally distant from that decision. 
+The answer is no, because of something called the [**Foreign Language Effect**](https://mdl.uchicago.edu/sites/keysarlab.uchicago.edu/files/uploads/Keysar%202012.pdf), where using a foreign language makes you more open to taking risks and less fearful of loss when making a decision that can bring positive value, since you are more cognitively and emotionally distant from that decision. 
 
 I was looking to enroll in a Spanish class, because I needed to ‘finally become fluent,’ but all of the spots were full of seniors who needed to fulfill their language requirement---they got to choose first because of seniority. So I enrolled in French on a whim. I didn’t expect to love French so much, but it made a difference in shaping how I connected with people and how I connected with myself. 
 
