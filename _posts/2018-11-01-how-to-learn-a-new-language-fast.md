@@ -6,7 +6,7 @@ date:   2019-11-01 23:45:13 -0500
 background: '/img/posts/04.jpg'
 ---
 
-I am trilingual---I can read, speak, and write in English, Spanish, and French. 
+I am trilingual--I can read, speak, and write in English, Spanish, and French. 
 
 Depending on where you are, you might see this as a feat or you might see it as trite. I see it as a process. I like how they sound and using them when I travel makes me happy.
 
