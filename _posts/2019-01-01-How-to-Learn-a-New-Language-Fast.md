@@ -72,7 +72,7 @@ Fortunately, if you follow this strategy, you can go from A1 to B2 in a matter o
 
 What is your experience with language learning?
 
-If you want to share your story or to learn more techniques, feel free to reach out to me via email or social media
+If you want to learn more techniques or share your story, feel free to reach out to me via email or social media.
 
 
 <!--
