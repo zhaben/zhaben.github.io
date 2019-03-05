@@ -58,12 +58,12 @@ After deciding which words to learn, the next step is spaced repetition. There a
 
 There is an international standard for describing language ability; it is referred to as the Common European Framework of Reference For Language Learning (CEFR). There are six levels to language mastery. Here are the average number of words you should now for each level:
 
-*500 words      → A1 (Beginner)
-*1,000 words    → A2 (Elementary)	
-*2,000 words    → B1 (Intermediate)
-*4,000 words    → B2 (Upper Intermediate)
-*8,000 words    → C1 (Advanced)
-*16,000 words   → C2 (Proficient)
+* 500 words      → A1 (Beginner)
+* 1,000 words    → A2 (Elementary)	
+* 2,000 words    → B1 (Intermediate)
+* 4,000 words    → B2 (Upper Intermediate)
+* 8,000 words    → C1 (Advanced)
+* 16,000 words   → C2 (Proficient)
 
 To go up a level, you have to learn twice the amount of words in your level.
 
