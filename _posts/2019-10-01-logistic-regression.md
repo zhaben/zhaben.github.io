@@ -30,8 +30,7 @@ Evaluation
 I evaluated my model using the AUC metric. My model has an AUC of .68, which means it has a 68% accuracy rate. It’s useful for predicting whether a person makes over 50K.
 
 AUC and ROC
-AUC (Area Under the Curve) refers to the area under the ROC (Receiver Operating Characteristic) curve, which graphs the tradeoff between the true positive rate (TPR) and false positive rate (FPR) of the classification model. 
-The AUC compares the model’s TPR and its FPR, indicating the usefulness of a classification model.
+AUC (Area Under the Curve) refers to the area under the ROC (Receiver Operating Characteristic) curve, which graphs the tradeoff between the true positive rate (TPR) and false positive rate (FPR) of the classification model. The AUC compares the model’s TPR and its FPR, indicating the usefulness of a classification model.
 
 
 TPR and FPR
