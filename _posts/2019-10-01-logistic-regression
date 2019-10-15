@@ -6,41 +6,22 @@ date:   2019-10-15 10:45:13 -0500
 background: '/img/posts/06.jpg'
 ---
 
-<img class="img-fluid" src="https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-
-<!--
-
-<p>I found a Census Income data set with information about age and income.
+I found a Census Income data set with information about age and income.
 Logistic regression is a classification algorithm, which means that it predicts which class, or group, a data point is likely to fall into. There can be two classes (binomial logistic regression), or more than two classes (multinomial logistic regression). 
-</p>
-<p>In this case, I am finding a relationship between age and monthly income. I’m assuming that older people have a higher income than younger people who are newer to the job market and have less experience.</p>
+In this case, I am finding a relationship between age and monthly income. I’m assuming that older people have a higher income than younger people who are newer to the job market and have less experience
 
-<p>In this dataset, the only information I have about people’s yearly income is whether it’s less than or equal to 50,000, or greater than 50,000.</p>
+In this dataset, the only information I have about people’s yearly income is whether it’s less than or equal to 50,000, or greater than 50,000.
 
-<h2 class="section-heading">The Final Frontier</h2>
+If I had an exact income for each person, I would run a linear regression model that would show that there was a positive relationship between age and income, which could help to predict a person’s monthly income based on their age.
 
-<p>If I had an exact income for each person, I would run a linear regression model that would show that there was a positive relationship between age and income, which could help to predict a person’s monthly income based on their age. </p>
+However, since I only have to two classes, “<=50K” and “>=50K”, I’ll run a binary logistic regression model to predict whether a person is more likely to make over 50K per year. 
 
-<p>However, since I only have to two classes, “<=50K” and “>=50K”, I’ll run a binary logistic regression model to predict whether a person is more likely to make over 50K per year. </p>
+If the income variable were continuous, linear regression would be a good fit, however since income is a binary variable, it is better suited for a logistic regression.
+In a logistic regression the outcome, or dependent variable, takes a value between 0 and 1, which can be interpreted as a probability. 
 
-<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+The probability that a person’s income is greater than 50K is the probability that a person’s income is equal to 1.
 
-<p>If the income variable were continuous, linear regression would be a good fit, however since income is a binary variable, it is better suited for a logistic regression. </p>
-
-<p>In a logistic regression the outcome, or dependent variable, takes a value between 0 and 1, which can be interpreted as a probability. 
-</p>
-
-<p>The probability that a person’s income is greater than 50K is the probability that a person’s income is equal to 1.
-</p>
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>I evaluated my model using the AUC metric. 
+I evaluated my model using the AUC metric. 
 
 My model has an AUC of .68, which means it has a 68% accuracy rate. It’s useful for predicting whether a person makes over 50K.
 
@@ -54,9 +35,7 @@ The TPR is the rate at which the model’s predicted outcome is the actual outco
 
 The FPR is the rate at which the model’d predicted outcome is not the actual outcome. It’s a false alarm, or a type 1 error (rejecting the hypothesis when it’s true). 
 
-</p>
 
-<p>
 TPR and FPR are based on a confusion matrix.
 
 A great way to understand TPR and FPR is credit card fraud. 
@@ -66,9 +45,7 @@ When your card declines in front of everyone when you’re out at a restaurant, 
 
 The positive is the bank’s guess that there was fraud and declining the card, the “true“ or “false” is whether the that guess was right or wrong.
 
-</p>
 
-<p>
 When training a model, it is ideal that the ROC curve will hug the upper left corner of the graph, because that would maximize the Area Under the Curve (AUC). 
 
 The greater the AUC, the more accurate the model.
@@ -83,8 +60,4 @@ Why would your credit card be useful if it declines every other time you use it?
 You would want more true positives (benefits) and less false positives (costs). 
 
 The 45 degree angle line serves as a divider, or threshold for TPR and FPR. Moving the threshold changes the AUC so that the model is more or less sensitive to detection.
-</p>
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
-
--->
