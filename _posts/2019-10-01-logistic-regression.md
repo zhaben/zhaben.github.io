@@ -9,7 +9,7 @@ background: '/img/posts/06.jpg'
 I found a Census Income data set with information about age and income.
 Logistic regression is a classification algorithm, which means that it predicts which class, or group, a data point is likely to fall into. 
 There can be two classes (binomial logistic regression), or more than two classes (multinomial logistic regression). 
-In this case, I am finding a relationship between age and monthly income. I’m assuming that older people have a higher income than younger people who are newer to the job market and have less experience
+In this case, I am finding a relationship between age and monthly income. I’m assuming that older people have a higher income than younger people who are newer to the job market and have less experience.
 
 In this dataset, the only information I have about people’s yearly income is whether it’s less than or equal to 50,000, or greater than 50,000.
 
