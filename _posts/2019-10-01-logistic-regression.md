@@ -18,7 +18,7 @@ I couldn't answer the question, "What is the income of person X given her age?")
 
 I decided to use logistic regression to analyze the effect that age has on income.
 
-See the entire project here: [Project](https://github.com/zhaben/Logistic-Regression-Predict-Income). 
+See the entire project here: [Using Logistic Regression to Predict Income](https://github.com/zhaben/Logistic-Regression-Predict-Income). 
 
 Logistic regression is a classification algorithm, which means that it predicts which class, or group, a data point is likely to fall into. There can be two classes (binomial logistic regression), or multiple classes (multinomial logistic regression). 
 
