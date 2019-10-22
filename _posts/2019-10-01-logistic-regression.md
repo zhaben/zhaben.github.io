@@ -26,7 +26,7 @@ In a logistic regression the outcome, while the explanatory variable (independen
 
 The probability that a person’s income is greater than 50K is the probability that a person’s income is equal to 1.
 
-The model is the equation of the curve.
+The "model" is the equation of the curve.
 
 # Evaluation
 
