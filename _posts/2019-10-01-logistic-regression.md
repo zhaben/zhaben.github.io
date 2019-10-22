@@ -12,7 +12,7 @@ My [hypothesis (Ha)](https://en.wikipedia.org/wiki/Alternative_hypothesis) is th
 
 If I had an exact income for each person, I would use a linear regression model that would show that there is a positive relationship between age and income.
 
-However, the income variable isn't continous, it's categorical because I only have to two responses throughout the dataset, “<=50K” and “>50K”. Since each data point falls into either "<=50K" or ">50k", I consider them groups, or classes. I’ll have to use a classification algorithm to predict whether a person is more likely to make over 50K per year.
+However, the income variable isn't continous, it's categorical because I only have to two responses throughout the dataset, “<=50K” and “>50K”. Since each data point falls into either "<=50K" or ">50k", I consider them groups, or classes. I’ll have to use a classification algorithm to predict whether a person is more likely to fall into the 50K per year bucket.
 
 I decided to use logistic regression to analyze the effect that age has on income.
 
