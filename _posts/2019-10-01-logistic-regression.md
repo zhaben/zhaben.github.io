@@ -28,26 +28,26 @@ My [hypothesis (Ha)](https://en.wikipedia.org/wiki/Alternative_hypothesis) is th
 
 # Evaluation
 
-Test Dataset
+## Test Dataset
 
-After creating a model, I evaluated its performance using the test dataset, a part of the original dataset set aside to tes the model's performance. Evaluating model performance with the data used for training is not acceptable in data science because it can easily generate overoptimistic and overfitted models.
+After creating a model, I evaluated its performance using the test dataset, a part of the original dataset set aside to test the model's performance. Evaluating model performance with the data used for training is not acceptable in data science because it can easily generate overoptimistic and overfitted models.
 
 I vizualized the results, and they were similar to the training dataset. 
 
-## AUC Metric
+## AUC and ROC Curves Metric
 
-I evaluated my model using the AUC metric. My model has an AUC of .68, which means it has a 68% accuracy rate. It’s useful for predicting whether a person makes over 50K.
+I evaluated my model using the AUC metric. My model has an AUC of .68, which means that it successfully classified 68% of people.
 
 AUC (Area Under the Curve) refers to the area under the ROC (Receiver Operating Characteristic) curve, which graphs the tradeoff between the true positive rate (TPR) and false positive rate (FPR) of the classification model. The AUC compares the model’s TPR and its FPR, indicating the usefulness of a classification model.
 
 
-### TPR and FPR
+#### TPR and FPR
 
 The TPR is the rate at which the model’s predicted outcome is the actual outcome.
 
 The FPR is the rate at which the model’s predicted outcome is not the actual outcome. It’s a false alarm, or a type 1 error (rejecting the hypothesis when it’s true). 
 
-TPR and FPR are based on a [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix).
+TPR and FPR come from the concept of a [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix).
 
 A great way to understand TPR and FPR is credit card fraud. 
 
@@ -60,7 +60,7 @@ If it's not you, and your card declines in front of everyone-- that is a false p
 The positive is the bank’s guess that there was fraud, declining the card. The “true“ or “false” is whether the that guess was right or wrong.
 
 
-### ROC Curve
+#### ROC Graph
 
 When training a model, it is ideal that the ROC curve will hug the upper left corner of the graph, because that would maximize the Area Under the Curve (AUC). The greater the AUC, the more accurate the model.
 
