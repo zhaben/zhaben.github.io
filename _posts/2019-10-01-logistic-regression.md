@@ -6,7 +6,7 @@ date:   2019-10-15 10:45:13 -0500
 background: '/img/posts/06.jpg'
 ---
 
-I found a Census Income [dataset](https://archive.ics.uci.edu/ml/datasets/census+income) with information about about age, income, work status, education level, marital status, occupation, relationship status, race, sex, hours worked/week, and country of origin. I wanted to see if age can be a predictor of annual income. 
+I found a Census Income [dataset](https://archive.ics.uci.edu/ml/datasets/census+income) extracted from the 1994 Census database. It includes information about about age, income, work status, education level, marital status, occupation, relationship status, race, sex, hours worked/week, and country of origin. I wanted to see if age can be a predictor of annual income. 
 
 If I had an exact income for each person, I would use a linear regression model that would show that there was a positive relationship between age and income, which could help to predict a person’s income based on their age. 
 
