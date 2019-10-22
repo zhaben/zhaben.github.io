@@ -8,7 +8,9 @@ background: '/img/posts/06.jpg'
 
 I found a Census Income [dataset](https://archive.ics.uci.edu/ml/datasets/census+income) extracted from the 1994 Census database. It includes information about about age, income, work status, education level, marital status, occupation, relationship status, race, sex, hours worked/week, and country of origin. I wanted to see if age can be a predictor of annual income. 
 
-If I had an exact income for each person, I would use a linear regression model that would show that there was a positive relationship between age and income, which could help to predict a person’s income based on their age. 
+My [hypothesis (Ha)](https://en.wikipedia.org/wiki/Alternative_hypothesis) is that older people have a higher income than younger people who are newer to the job market and have less experience. I want to reject the status quo, or [Null hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) that age has no significant effect on income.
+
+If I had an exact income for each person, I would use a linear regression model that would show that there was a positive relationship between age and income.
 
 However, the income variable isn't continous, it's categorical because I only have to two responses throughout the dataset, “<=50K” and “>50K”. Since each data point falls into either "<=50K" or ">50k", I consider them groups, or classes. I’ll have to use a classification algorithm to predict whether a person is more likely to make over 50K per year.
 
@@ -23,8 +25,6 @@ Logistic regression is a classification algorithm, which means that it predicts 
 In a logistic regression the outcome, while the independent variale, or explanatory variable, remains continuous, the dependent variable, takes a value between 0 and 1, which can be interpreted as a probability. 
 
 The probability that a person’s income is greater than 50K is the probability that a person’s income is equal to 1.
-
-My [hypothesis (Ha)](https://en.wikipedia.org/wiki/Alternative_hypothesis) is that older people have a higher income than younger people who are newer to the job market and have less experience. I want to reject the status quo, or [Null hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) that age has no significant effect on income.
 
 # Evaluation
 
