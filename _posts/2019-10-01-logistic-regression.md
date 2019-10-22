@@ -12,13 +12,13 @@ My [hypothesis (Ha)](https://en.wikipedia.org/wiki/Alternative_hypothesis) is th
 
 If I had an exact income for each person, I would use a linear regression model that would show that there is a positive relationship between age and income.
 
-However, the income variable isn't continous, it's categorical because I only have to two responses throughout the dataset, “<=50K” and “>50K”. Since each data point falls into either "<=50K" or ">50k", I consider them groups, or classes. I’ll have to use a classification algorithm to predict whether a person is more likely to fall into the 50K per year bucket.
-
-I decided to use logistic regression to analyze the effect that age has on income.
+However, the income variable isn't continous, it's categorical because I only have to two responses throughout the dataset, “<=50K” and “>50K”. Since each data point falls into either "<=50K" or ">50k", I consider them groups, or classes. I’ll have to use a classification algorithm to predict whether a person is more likely to fall into the 50K per year category.
 
 I couldn't answer the question, "What is the income of person X given her age?"), but I could answer the question, "Is person X likely to make more than $50,000/year given her age?". 
 
-See the entire project here:[Project](https://github.com/zhaben/Logistic-Regression-Predict-Income). 
+I decided to use logistic regression to analyze the effect that age has on income.
+
+See the entire project here: [Project](https://github.com/zhaben/Logistic-Regression-Predict-Income). 
 
 Logistic regression is a classification algorithm, which means that it predicts which class, or group, a data point is likely to fall into. There can be two classes (binomial logistic regression), or multiple classes (multinomial logistic regression). 
 
