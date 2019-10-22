@@ -39,6 +39,7 @@ After creating a model, I evaluated its performance using the test dataset, a pa
 
 I vizualized the results, and the curve looked similar to the training dataset's curve.
 
+
 ## AUC and ROC Curves Metric
 
 I evaluated my model using the AUC metric. My model has an AUC of .68, which means that it successfully classified 68% of people.
