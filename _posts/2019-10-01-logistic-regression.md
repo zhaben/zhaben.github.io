@@ -22,9 +22,11 @@ See the entire project here: [Using Logistic Regression to Predict Income](https
 
 Logistic regression is a classification algorithm, which means that it predicts which class, or group, a data point is likely to fall into. There can be two classes (binomial logistic regression), or multiple classes (multinomial logistic regression). 
 
-In a logistic regression the outcome, while the independent variale, or explanatory variable, remains continuous, the dependent variable, takes a value between 0 and 1, which can be interpreted as a probability. 
+In a logistic regression the outcome, while the explanatory variable (independent variable), remains continuous, the outcome (dependent variable) takes on a value between 0 and 1, which can be interpreted as a probability. 
 
 The probability that a person’s income is greater than 50K is the probability that a person’s income is equal to 1.
+
+The model is the equation of the curve.
 
 # Evaluation
 
