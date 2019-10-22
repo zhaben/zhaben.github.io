@@ -6,11 +6,11 @@ date:   2019-10-15 10:45:13 -0500
 background: '/img/posts/06.jpg'
 ---
 
-I found a Census Income [dataset](https://archive.ics.uci.edu/ml/datasets/census+income) with information about age and income. It includes information about age, income, work status, education level, marital status, occupation, relationship status, race, sex, hours worked/week, and country of origin. I wanted to see if age can be a predictor of income. 
+I found a Census Income [dataset](https://archive.ics.uci.edu/ml/datasets/census+income) with information about age and income. It includes information about age, income, work status, education level, marital status, occupation, relationship status, race, sex, hours worked/week, and country of origin. I wanted to see if age can be a predictor of annual income. 
 
-If I had an exact income for each person, I would use a linear regression model that would show that there was a positive relationship between age and income, which could help to predict a person’s monthly income based on their age. However, 
+If I had an exact income for each person, I would use a linear regression model that would show that there was a positive relationship between age and income, which could help to predict a person’s income based on their age. 
 
-The income variable isn't continous, it's categorical because I only have to two responses throughout the dataset, “<=50K” and “>50K”. Since each data point falls into either "<=50K" or ">50k", I consider them groups, or classes. I’ll have to use a classification algorithm to predict whether a person is more likely to make over 50K per year.
+However, the income variable isn't continous, it's categorical because I only have to two responses throughout the dataset, “<=50K” and “>50K”. Since each data point falls into either "<=50K" or ">50k", I consider them groups, or classes. I’ll have to use a classification algorithm to predict whether a person is more likely to make over 50K per year.
 
 I decided to use logistic regression to analyze the effect that age has on income.
 
