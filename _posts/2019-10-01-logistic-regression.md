@@ -6,11 +6,11 @@ date:   2019-10-15 10:45:13 -0500
 background: '/img/posts/06.jpg'
 ---
 
-I found a Census Income [dataset](https://archive.ics.uci.edu/ml/datasets/census+income) extracted from the 1994 Census database. It includes information about about age, income, work status, education level, marital status, occupation, relationship status, race, sex, hours worked/week, and country of origin. I wanted to see if age can be a predictor of annual income. 
+I found a Census Income [dataset](https://archive.ics.uci.edu/ml/datasets/census+income) extracted from the 1994 Census database. It includes information about about age, income, work status, education level, marital status, occupation, relationship status, race, sex, hours worked/week, and country of origin. I chose this dataset because wanted to see if age can be a predictor of annual income. 
 
 My [hypothesis (Ha)](https://en.wikipedia.org/wiki/Alternative_hypothesis) is that older people have a higher income than younger people who are newer to the job market and have less experience. I want to reject the status quo, or [Null hypothesis(H0)](https://en.wikipedia.org/wiki/Null_hypothesis) that age has no significant effect on income.
 
-If I had an exact income for each person, I would use a linear regression model that would show that there was a positive relationship between age and income.
+If I had an exact income for each person, I would use a linear regression model that would show that there is a positive relationship between age and income.
 
 However, the income variable isn't continous, it's categorical because I only have to two responses throughout the dataset, “<=50K” and “>50K”. Since each data point falls into either "<=50K" or ">50k", I consider them groups, or classes. I’ll have to use a classification algorithm to predict whether a person is more likely to make over 50K per year.
 
